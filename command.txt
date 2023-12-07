@@ -7,4 +7,5 @@ git restore
 git -rm cache
 git config --global user.name
 git config --global user.email
-git log --online --pretty
+git log --online --prett
+git checkout -b dev
