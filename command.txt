@@ -5,3 +5,5 @@ git restore
 git add
 git clone
 git remove -v
+git pull
+git push
