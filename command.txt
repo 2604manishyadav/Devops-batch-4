@@ -1,2 +1,7 @@
 git init
 git status
+git commit
+git restore
+git add
+git clone
+git remove -v
