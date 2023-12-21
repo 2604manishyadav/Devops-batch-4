@@ -1,2 +1,3 @@
 added new fearure
 added more funtion
+added more funtion and commit on github not in local
